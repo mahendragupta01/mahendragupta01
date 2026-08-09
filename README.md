@@ -82,7 +82,7 @@ More projects and documentation will be added progressively.
 ## 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/)
-- 🌐 [GitHub](https://github.com/myiot9795)
+- 🌐 [GitHub](https://github.com/mahendragupta01)
 
 ---
 

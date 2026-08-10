@@ -30,7 +30,7 @@ Google Cloud Platform, Apache Spark, PySpark, Python and SQL.
 `Python` `SQL` `Unix/Shell`
 
 ### Data Engineering & Orchestration
-`ETL` `ELT` `Apache Airflow` `Cloud Composer` `Data Pipelines`
+`ETL` `ELT` `Apache Airflow` `BMC Control M `Cloud Composer` `Data Pipelines`
 
 ### DevOps & Tools
 `Git` `GitHub` `Jenkins` `CI/CD`

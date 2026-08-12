@@ -44,7 +44,7 @@ A practical collection of Google Cloud and Big Data engineering resources.
 
 **Technologies:** GCP · GCS · BigQuery · Dataproc · Dataflow · PySpark · SQL
 
-👉 [View GCP Repository](https://github.com/mahendragupta01/gcp-bigdata-projects/01-gcp-data-engineering-bootcamp)
+👉 [View GCP & Bigdata Repository](https://github.com/mahendragupta01/gcp-bigdata-projects/tree/main/01-gcp-data-engineering-bootcamp)
 
 ---
 

@@ -1,6 +1,6 @@
 # Hi, I'm Mahendra Gupta 👋
 
-### Big Data Engineer | GCP | PySpark | Apache Spark | BigQuery
+### Senior Big Data Engineer | GCP | PySpark | Apache Spark | BigQuery
 
 I work on building scalable data pipelines and data engineering solutions using
 Google Cloud Platform, Apache Spark, PySpark, Python and SQL.

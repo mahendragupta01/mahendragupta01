@@ -46,6 +46,14 @@ A practical collection of Google Cloud and Big Data engineering resources.
 
 👉 [View GCP & Bigdata Repository](https://github.com/mahendragupta01/gcp-bigdata-projects/tree/main/01-gcp-data-engineering-bootcamp)
 
+| project | Repository |
+|---|---|
+| Enterprise Data Platform Modernization — FDU | https://github.com/mahendragupta01/fdu-enterprise-data-platform-modernization |
+| Informatica → PySpark Migration | https://github.com/mahendragupta01/informatica-to-pyspark-migration |
+| Automated Data Quality Framework | https://github.com/mahendragupta01/data-quality-framework |
+| GCP Enterprise Data Platform | https://github.com/mahendragupta01/gcp-enterprise-data-platform |
+| GCP Data Engineering Bootcamp | https://github.com/mahendragupta01/gcp-bigdata-projects/tree/main/01-gcp-data-engineering-bootcamp |
+
 ---
 
 ## 🔭 Areas of Interest

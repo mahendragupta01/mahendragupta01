@@ -87,7 +87,7 @@ More projects and documentation will be added progressively.
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahendra-gupta-283285118/)
 - 🌐 [GitHub](https://github.com/mahendragupta01)
 
 ---
